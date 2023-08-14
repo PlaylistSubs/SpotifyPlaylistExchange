@@ -1,10 +1,12 @@
 # SpotifyPlaylistExchange
 This app is meant to help unknown indie musicians to grow
 
-INTRO:
+INTRO
+.
 Hi! I'd need to develop an app and I have no idea if it's even possible to create, how difficult it might be and... Well... I just don't know a thing about coding and developing, so I figured to try to reach you, guys. Hopefully, you'd be able to give me some directions! :-)
 
-APP OVERVIEW:
+APP OVERVIEW
+.
 The app would offer the users specific Spotify playlist in fixed order, one by one. After the users listened to one playlist (for at least 2 hours or 50 songs), the app would offer them the next one in queue. The users themselves would be able to add their own playlist to the app (via Spotify link) while they would be receiving "points" for every other playlist they've listened to. The order of playlists would be determined by the very points and would be updated on a weekly basis (mean. the user who gathered most points for listening other's playlists last week will have his/her own playlist on the first place in queue the following week).
 
 CONTEXT:
